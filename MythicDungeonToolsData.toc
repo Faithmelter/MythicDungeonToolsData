@@ -1,0 +1,17 @@
+## Interface: 90002
+## X-Min-Interface: 90002
+
+## Title: Mythic Dungeon Tools Data
+## Notes: A fix for Mythic Dungeon Tools because some malding salty cunt removed the NPC data. ** REQUIRES MYTHIC DUNGEON TOOLS **
+## Author: Faith
+## Dependencies: MythicDungeonTools
+
+Shadowlands\DeOtherSide.lua
+Shadowlands\HallsOfAtonement.lua
+Shadowlands\MistsOfTirnaScithe.lua
+Shadowlands\Plaguefall.lua
+Shadowlands\SanguineDepths.lua
+Shadowlands\SpiresOfAscension.lua
+Shadowlands\TheaterOfPain.lua
+Shadowlands\TheNecroticWake.lua
+Misc\Fixes.lua
